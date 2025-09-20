@@ -1,0 +1,11 @@
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\bin\Debug\net8.0\Play.Contract.deps.json
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\bin\Debug\net8.0\Play.Contract.dll
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\bin\Debug\net8.0\Play.Contract.pdb
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\obj\Debug\net8.0\Play.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\obj\Debug\net8.0\Play.Contract.AssemblyInfoInputs.cache
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\obj\Debug\net8.0\Play.Contract.AssemblyInfo.cs
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\obj\Debug\net8.0\Play.Contract.csproj.CoreCompileInputs.cache
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\obj\Debug\net8.0\Play.Contract.dll
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\obj\Debug\net8.0\refint\Play.Contract.dll
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\obj\Debug\net8.0\Play.Contract.pdb
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Contract\obj\Debug\net8.0\ref\Play.Contract.dll

@@ -561,7 +561,7 @@
           "lib/net5.0/Play.Catalog.Contracts.dll": {}
         }
       },
-      "Play.Common/1.0.4": {
+      "Play.Common/1.0.5": {
         "type": "package",
         "dependencies": {
           "MassTransit.AspNetCore": "7.3.1",
@@ -574,7 +574,10 @@
         },
         "runtime": {
           "lib/net8.0/Play.Common.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Polly/7.2.4": {
         "type": "package",
@@ -1885,14 +1888,14 @@
         "play.catalog.contracts.nuspec"
       ]
     },
-    "Play.Common/1.0.4": {
-      "sha512": "UcGQRbceoMUjJV0j1Pwl61ZQdOkwlBXE+fszB9VyDCI/spFFJ6fIv/htO4CW3wUkxiEpnnHeWB8eWV8pEQfNjQ==",
+    "Play.Common/1.0.5": {
+      "sha512": "9yiY08Lph8PiP4ghGH4TZrDjs/myedUURzQq8KhlvpXoF5RYXEoOtP8h6BmBJi9jyI98sKCqt+Wi/SO9U/wYiA==",
       "type": "package",
-      "path": "play.common/1.0.4",
+      "path": "play.common/1.0.5",
       "files": [
         ".nupkg.metadata",
         "lib/net8.0/Play.Common.dll",
-        "play.common.1.0.4.nupkg.sha512",
+        "play.common.1.0.5.nupkg.sha512",
         "play.common.nuspec"
       ]
     },
@@ -2372,7 +2375,7 @@
       "Microsoft.Extensions.Http.Polly >= 9.0.8",
       "MongoDB.Driver >= 3.4.3",
       "Play.Catalog.Contracts >= 1.0.0",
-      "Play.Common >= 1.0.4",
+      "Play.Common >= 1.0.5",
       "Play.Contract >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -2435,7 +2438,7 @@
           },
           "Play.Common": {
             "target": "Package",
-            "version": "[1.0.4, )"
+            "version": "[1.0.5, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

@@ -49,3 +49,4 @@ C:\cognizant\ECommerceMicro\Play.Inventory\Play.Catalog\obj\Debug\net8.0\refint\
 C:\cognizant\ECommerceMicro\Play.Inventory\Play.Catalog\obj\Debug\net8.0\Play.Catalog.pdb
 C:\cognizant\ECommerceMicro\Play.Inventory\Play.Catalog\obj\Debug\net8.0\Play.Catalog.genruntimeconfig.cache
 C:\cognizant\ECommerceMicro\Play.Inventory\Play.Catalog\obj\Debug\net8.0\ref\Play.Catalog.dll
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Catalog\obj\Debug\net8.0\Play.Catalog.sourcelink.json

@@ -63,3 +63,4 @@ C:\cognizant\ECommerceMicro\Play.Inventory\Play.Inventory\obj\Debug\net8.0\Play.
 C:\cognizant\ECommerceMicro\Play.Inventory\Play.Inventory\obj\Debug\net8.0\ref\Play.Inventory.dll
 C:\cognizant\ECommerceMicro\Play.Inventory\Play.Inventory\bin\Debug\net8.0\Play.Contract.dll
 C:\cognizant\ECommerceMicro\Play.Inventory\Play.Inventory\bin\Debug\net8.0\Play.Contract.pdb
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Inventory\obj\Debug\net8.0\Play.Inventory.sourcelink.json

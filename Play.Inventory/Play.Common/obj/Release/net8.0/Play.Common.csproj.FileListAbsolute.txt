@@ -1,0 +1,13 @@
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\bin\Release\net8.0\Play.Common.deps.json
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\bin\Release\net8.0\Play.Common.dll
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\bin\Release\net8.0\Play.Common.pdb
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\Play.Common.csproj.AssemblyReference.cache
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\Play.Common.AssemblyInfoInputs.cache
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\Play.Common.AssemblyInfo.cs
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\Play.Common.csproj.CoreCompileInputs.cache
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\Play.Common.sourcelink.json
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\Play.Common.dll
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\refint\Play.Common.dll
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\Play.Common.pdb
+C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\obj\Release\net8.0\ref\Play.Common.dll

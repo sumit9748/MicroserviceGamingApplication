@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KR8Q9ekZfUScRMTDGZSvsmcMaLhMlsBsMaXP6Hj1y6+Ib3tls3z+GRWBk294GraHiwMpdO6xhfd9OcxRMzuU3A==",
+  "dgSpecHash": "mKOjbsNJiVrXl7RTROpk5Pdutajc3nL8UjAv1UcDcX54C4QkHEcZBP1l4PAgjOf7wr3IV2it98sqAS741S2R1Q==",
   "success": true,
   "projectFilePath": "C:\\cognizant\\ECommerceMicro\\Play.Inventory\\Play.Catalog\\Play.Catalog.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,7 @@
     "C:\\Users\\DELL.000\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\mongodb.bson\\3.4.3\\mongodb.bson.3.4.3.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\mongodb.driver\\3.4.3\\mongodb.driver.3.4.3.nupkg.sha512",
-    "C:\\Users\\DELL.000\\.nuget\\packages\\play.common\\1.0.4\\play.common.1.0.4.nupkg.sha512",
+    "C:\\Users\\DELL.000\\.nuget\\packages\\play.common\\1.0.5\\play.common.1.0.5.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",

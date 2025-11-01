@@ -27,6 +27,7 @@ namespace Play.Inventory.Consumers
                 Id = message.ItemId,
                 Name = message.Name,
                 Description = message.Description,
+                Price=message.Price
             };
 
             await _repo.CreateAsync(item);

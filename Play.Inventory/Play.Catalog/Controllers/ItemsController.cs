@@ -48,7 +48,7 @@ namespace Play.Catalog.Controllers
             };
 
             await _repo.CreateAsync(real);
-            await publishEndpoint.Publish(new CatalogItemCreated(real.Id, real.Name, real.Description));
+            await publishEndpoint.Publish(new CatalogItemCreated(real.Id, real.Name, real.Description,Convert.ToInt32(real.Price)));
         }
         [HttpPut("{id}")]
         public async Task Update(Guid id,[FromBody]ItemDTO item)
@@ -62,7 +62,7 @@ namespace Play.Catalog.Controllers
                 CreatedDate = DateTime.Now,
             };
             await _repo.UpdateAsync(real);
-            await publishEndpoint.Publish(new CatalogItemUpdated(real.Id, real.Name, real.Description));
+            await publishEndpoint.Publish(new CatalogItemUpdated(real.Id, real.Name, real.Description, Convert.ToInt32(real.Price)));
         }
         [HttpDelete]
         public async Task Delete(Guid id)

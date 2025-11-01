@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Play.Common</id>
+    <version>1.0.5</version>
+    <authors>Play.Common</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="a38d01aafb19d8f58dad67e76ffffdd518403ad8" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="MassTransit.AspNetCore" version="7.3.1" exclude="Build,Analyzers" />
+        <dependency id="MassTransit.RabbitMQ" version="8.5.3-develop.2364" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="10.0.0-preview.7.25380.108" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="3.4.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\cognizant\ECommerceMicro\Play.Inventory\Play.Common\bin\Release\net8.0\Play.Common.dll" target="lib\net8.0\Play.Common.dll" />
+  </files>
+</package>

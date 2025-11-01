@@ -1,6 +1,6 @@
 ﻿using MassTransit;
-using Play.Catalog.Contracts;
 using Play.Common;
+using Play.Contract;
 using Play.Inventory.Entities;
 
 namespace Play.Inventory.Consumers
@@ -25,6 +25,7 @@ namespace Play.Inventory.Consumers
                     Id = message.ItemId,
                     Name = message.Name,
                     Description = message.Description,
+                    Price = message.Price
                 };
                 await _repo.CreateAsync(item);
             }
@@ -32,6 +33,7 @@ namespace Play.Inventory.Consumers
             {
                 item.Name = message.Name;
                 item.Description = message.Description;
+                item.Price = message.Price;
 
                 await _repo.UpdateAsync(item);
             }

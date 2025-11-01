@@ -11,6 +11,7 @@ using Play.Common.MassTransit;
 using System.Text.Json;
 using Play.Catalog.Entities;
 using Play.Catalog.Middleware;
+using Play.Common.Middleware;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -39,7 +40,7 @@ builder.Services.AddScoped<IMongoRepositry<Item>>(ServiceProvider =>
 });
 
 var app = builder.Build();
-app.UseMiddleware<ExceptionMiddleware>();
+app.UseGlobalExceptionHandler();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

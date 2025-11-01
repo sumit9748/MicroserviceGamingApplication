@@ -11,6 +11,7 @@ using Polly;
 using Play.Common.MassTransit;
 using System.Text.Json;
 using Play.Inventory.Entities;
+using Play.Common.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -46,7 +47,7 @@ builder.Services.AddScoped<IMongoRepositry<CatalogItem>>(sp =>
 });
 
 var app = builder.Build();
-app.UseMiddleware<ExceptionMiddleware>();
+app.UseGlobalExceptionHandler();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

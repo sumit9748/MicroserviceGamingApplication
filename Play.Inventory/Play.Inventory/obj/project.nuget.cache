@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ez2/0Pw9MOURJM7s+qhDyUxtu6mehePY0pNq9d1gK3TTlFZtRTozDhhx7FSl9GkoJPo2e60Nma/elAwK8I4ACQ==",
+  "dgSpecHash": "TgElm16xQ26rFhQ4CJAAANxfZbivh+TeWf2BJ/1d9b51TwPsvXNXL14TGQcF9zxx7JfLD/yZTVGKFeD58WalUQ==",
   "success": true,
   "projectFilePath": "C:\\cognizant\\ECommerceMicro\\Play.Inventory\\Play.Inventory\\Play.Inventory.csproj",
   "expectedPackageFiles": [
@@ -35,7 +35,7 @@
     "C:\\Users\\DELL.000\\.nuget\\packages\\mongodb.bson\\3.4.3\\mongodb.bson.3.4.3.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\mongodb.driver\\3.4.3\\mongodb.driver.3.4.3.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\play.catalog.contracts\\1.0.0\\play.catalog.contracts.1.0.0.nupkg.sha512",
-    "C:\\Users\\DELL.000\\.nuget\\packages\\play.common\\1.0.4\\play.common.1.0.4.nupkg.sha512",
+    "C:\\Users\\DELL.000\\.nuget\\packages\\play.common\\1.0.5\\play.common.1.0.5.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\polly\\7.2.4\\polly.7.2.4.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\DELL.000\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
